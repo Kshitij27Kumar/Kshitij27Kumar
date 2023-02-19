@@ -6,7 +6,7 @@
 
 
 <br><br>
-![Garvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitij27Kumar&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)-->  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij27Kumar&layout=compact&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats) -->
+![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitij27Kumar&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)-->  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij27Kumar&layout=compact&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats) -->
 <br>
 <br><br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kshitij27Kumar&theme=tokyonight&count_private=true) <!--(https://git.io/streak-stats)-->
